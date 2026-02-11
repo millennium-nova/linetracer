@@ -1,3 +1,7 @@
-### Arduino と LEGO などを使って作った簡単な Line Tracer
+### 電池駆動 Line Tracer
+
+Arduino, LEGO, 赤外線センサーのようなものを用いて作成
+
+何もわからず作り始め、センサーの機能も正確には理解できておらず、回路の組み方も結局正解が分からないまま動かしていたが、何とか所定のコースを完走できる程度にはなった。
 
 ![linetracer](images/linetracer01.jpg)
